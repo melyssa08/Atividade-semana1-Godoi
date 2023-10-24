@@ -45,3 +45,5 @@ O código-fonte está disponível no arquivo src/sketch.ino.
 ![Saída do Monitor](./codigo_feito.PNG)
 
 ![Variação da Temperatura](./variacao-codigo.PNG)
+
+link para o drive com o PDF: https://drive.google.com/file/d/1PBUXSm00aPAeVpYBc4KQl_gVQL6vd9Hs/view?usp=sharing
